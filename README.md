@@ -1,7 +1,7 @@
 # my-hammerspoon
 This is my hammerspoon config
 
-This requires Karabiner Elements. Remaps your capslock to something userfiul (like f19) because capslock is useless.
+This requires [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements). Remaps your capslock to something useful (like f19), because capslock is useless.
 
 A lot of this was forked form @miromannino. 
 
